@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://hub.theartistsguidetobusiness.com/$1"
+ }
+  ]
+}
